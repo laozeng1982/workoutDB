@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'D:\codingProjects\python\workoutDB\windows\DialogDemoUI.ui'
+# Form implementation generated from reading ui file 'DialogDemoUI.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.1
 #
@@ -41,4 +41,4 @@ class Ui_DemoDialog(object):
     def retranslateUi(self, DemoDialog):
         _translate = QtCore.QCoreApplication.translate
         DemoDialog.setWindowTitle(_translate("DemoDialog", "Dialog"))
-        self.label.setText(_translate("DemoDialog", "This is a demo."))
+        self.label.setText(_translate("DemoDialog", "This is a demo.123"))
